@@ -6,5 +6,7 @@ Replication of awesome project originally created by [Ben Muller](https://www.ha
 
 <img src="https://github.com/pehruby/pacman/blob/master/Photos/IMAG2306.jpg" width="420"> <img src="https://github.com/pehruby/pacman/blob/master/Photos/IMAG2307.jpg" width="420">
 
+<img src="https://github.com/pehruby/pacman/blob/master/Photos/IMAG2308.jpg" width="420"> <img src="https://github.com/pehruby/pacman/blob/master/Photos/IMAG2310.jpg" width="420">
+
 
 
