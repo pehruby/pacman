@@ -4,4 +4,5 @@ Replication of awesome project originally created by [Ben Muller](https://www.ha
 [![Pac Man costume](https://github.com/pehruby/pacman/blob/master/Photos/yt.jpg?raw=true)](https://youtu.be/wuHAoJ8ybKk "Pac Man")
 
 
-![](https://github.com/pehruby/pacman/blob/master/Photos/IMAG2306.jpg | width=100)
+![](https://github.com/pehruby/pacman/blob/master/Photos/IMAG2306.jpg)
+
