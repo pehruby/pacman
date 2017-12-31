@@ -8,8 +8,15 @@ Replication of awesome project originally created by [Ben Muller](https://www.ha
 * Controller board is build on ATMega328P chip. Arduino Uno can be used as well. Datapin 3 controls the LED string.
 
 * 200x WS2811 LEDs (4 string of 50 LEDs connected together) were bought on eBay.
-* paper parts were laser cutted from 3mm cardboard plates of size 800x500mm. DWG and PDF source files are located in Misc directory. 6 3mm cardboard 
-plates of size 800x500mm are needed
+* paper parts were laser cutted from 3mm cardboard plates of size 800x500mm. DWG and PDF source files are located in Misc directory. 6 cardboard 
+plates are needed
+
+* velcro tapes are used to attach the back cover of the panel
+
+
+For those who live near to Prague:
+Paper (cardboard and translucent cover paper) were bought in http://www.grandpapir.cz/
+Laser cutting was performed in http://www.kavalir.cz 
 
  
 
